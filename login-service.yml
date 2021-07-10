@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      host: localhosts
+      host: localhost
       port: 27017
       database: xordb
